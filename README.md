@@ -1,4 +1,4 @@
-# Welcome Everybody
+# Welcome Everyone
 - 👋 I’m @karlosg3
 - 👀 I’m interested in Fornt-End Development
 - 🌱 I’m currently learning on making my own Music Web Player
