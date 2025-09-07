@@ -1,6 +1,6 @@
 # Welcome Everyone
 - 👋 I’m @karlosg3
-- 👀 I’m interested in Fornt-End Development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning on making my own Music Web Player
 - 💞️ I’m looking to collaborate on Desktop Apps
 - 📫 How to reach me: carlosoj.bernal@gmail.com
